@@ -19,8 +19,8 @@
     "catalog_checkbox": "&check;",
     "catalog_bin": "",
     "catalog_bin_loc": "",
-    "catalog_description": "Child Click (after) Branch",
-    "catalog_specs": "<ul><li>If</u> you built a family tree branch (above) without including optional child clicks, because the branch was closed (without them) and must be reopened, there's an additional cost to add them.</li></ul><br><p class='text-center'><strong><i>Steps to Do . . .</i></strong></p><br><ol><li>Activate Child Click</li><li>Display Child Profile when Child Name is Clicked</li></ol>",
+    "catalog_description": "Child Click (after) Branch Close",
+    "catalog_specs": "<ul><li>If</u> you built a family tree branch (above) without including optional child clicks, because the branch was closed (without them), there's an additional cost to add them <strong>after</strong> branch closure.</li></ul><br><p class='text-center'><strong><i>Steps to Do . . .</i></strong></p><br><ol><li>Activate Child Click</li><li>Display Child Profile when Child Name is Clicked</li></ol>",
     "catalog_price": "<p><span class='money-color'>$20.00</span> &nbsp;Per (<span class='accent-font-color'>Child Click</span>)<br><br><ul><li>If Child Clicks are <u>not</u> purchased, the child's name <u>will</u> be displayed underneath his/her parent, <u>but</u> will <u>not</u> respond to clicks.</li></ul></p>",
     "catalog_price_frequency": "<ul><li>Per (<span class='accent-font-color'>Child Click</span>)</li><li>The Following fields Are Displayed:</li><ol><li>Child Photo</li><li>Computed Age</li><li>Year Born</li></ol><li>If child is deceased, the following fields are also displayed:<br><br><ol><li>An Asterisk (*) Indicating Deceased</li><li>Year Died, and Age at Death</li> </ol></li></ul>",
     "catalog_item_available": "y"
