@@ -8,7 +8,7 @@
     "catalog_bin_loc": "",
     "catalog_description": "Generate Family Tree",
     "catalog_specs": "<ul><li>When starting a family tree, building the foundation, configuring the architechture, and establishing the root branch, are the first steps.</li><li>The root branch displays the root's photo, age, year born, year died (if deceased), and the root's narrative. &nbsp;The names of the root's descendant children are also displayed (in birth order sequence).</li><li>This is called family tree startup. &nbsp;At family tree startup, the root's family tree skeleton is generated, complete with the root's demographic information and the names of the root's descendant children.</li><li>The newly generated family tree is now ready to have the root's descendant children branches added to it.</li></ol>",
-    "catalog_price": "<ol><li><span class='money-color'>$125.00</span> &nbsp;(Configure and Build Family Tree.</li><li><span class='money-color'>$45.00</span> &nbsp;(Generate Family Tree.</li>",
+    "catalog_price": "<ol><li><span class='money-color'>$125.00</span> &nbsp;(Build Foundation, Architechture, Establish Root.</li><li><span class='money-color'>$35.00</span> &nbsp;(Generate Family Tree.</li>",
     "catalog_price_frequency": "<ul><li>Per (<span class='accent-font-color'>Family Tree Root)</span></li><li>Root Narrative Limited to <strong><i>200</i></strong> Words.</li><li>Up to 3 narrative revisions allowed before additional <span class='money-color'>$10.00</span> charge due.</li><li>If root is deceased, the following fields are also displayed:<br><br><ol><li>An Asterisk (*) Indicating Deceased</li><li>Year Died, and Age at Death</li> </ol></li></ul>",
     "catalog_item_available": "y"
   },
