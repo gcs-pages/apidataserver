@@ -2,6 +2,7 @@
   {
     "catalog_class": "0100",
     "catalog_partno": "0010",
+    "catalog_option": "",
     "catalog_checkbox": "&check;",
     "catalog_bin": "",
     "catalog_bin_loc": "",
@@ -14,7 +15,7 @@
   {
     "catalog_class": "0100",
     "catalog_partno": "0020",
-    "catalog_option": "&check; Adds Functionality",
+    "catalog_option": "&check; &nbsp;Adds Functionality",
     "catalog_checkbox": "&check;",
     "catalog_bin": "",
     "catalog_bin_loc": "",
@@ -27,7 +28,7 @@
   {
     "catalog_class": "0100",
     "catalog_partno": "0030",
-    "catalog_option": "&check; Adds Functionality",
+    "catalog_option": "&check; &nbsp;Adds Functionality",
     "catalog_checkbox": "&check;",
     "catalog_bin": "",
     "catalog_bin_loc": "",
@@ -40,7 +41,7 @@
   {
     "catalog_class": "0100",
     "catalog_partno": "0040",
-    "catalog_option": "&check; Adds Functionality",
+    "catalog_option": "&check; &nbsp;Adds Functionality",
     "catalog_checkbox": "&check;",
     "catalog_bin": "",
     "catalog_bin_loc": "",
