@@ -32,7 +32,7 @@
     "catalog_checkbox": "&check;",
     "catalog_bin": "",
     "catalog_bin_loc": "",
-    "catalog_description": "Add Click",
+    "catalog_description": "Add Child Click",
     "catalog_specs": "",
     "catalog_price": "<ul><li><span class='money-color'>$15.00</span> &nbsp;Per (<strong>Child Click</strong>).</li></ul><br><ol><li>A child click causes a minor child's: photo, age, year born, and year died (if deceased) to be displayed when the child's name is clicked.</li><br><li>Activating child clicks are <strong>optional</strong> (you don't have to do). &nbsp;The child's name will still display underneath his/her parent, but will not respond to clicks.</li></ol>",
     "catalog_price_frequency": "<ul><li>Per (<strong>Child Click</strong>).</li><br><li>The Following fields Are Displayed:</ul><br><ol><li>Child Photo.</li><li>Computed Age.</li><li>Year Born.</li></ol><ul><li>If child is deceased, the following fields are also displayed:</ul><ol><li>An Asterisk (*) Indicating Deceased.</li><li>Year Died, and Age at Death.</li></ol>",
