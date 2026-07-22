@@ -61,7 +61,7 @@
     "catalog_description": "Family Member Tribute",
     "catalog_specs": "Card",
     "catalog_price": "<ul><li><span class='money-color'>$45.00</span> Per (<strong>Family Member Tribute</strong>).</li></ul><ol><li>A Family Member Tribute can be used to pay a <strong>special tribute</strong>, eulogize a dearly departed loved one, or recognize accomplishments.</li></ol>",
-    "catalog_price_frequency": "<ul><li>Per (<strong>Family Member Tribute</strong>)</li><br><li>Family Member Tribute Card consist of: <ol><li>Cover (with photo)</li><li>Inside left (wording)</li><li>Inside right (wording)</li></ol><br>Tribute writeups are limited to <strong><i>200</i></strong> &nbsp;Words.</li><br><li>Up to 3 tribute revisions allowed before additional <span class='money-color'>$10.00</span> charge due.</li></ul>",
+    "catalog_price_frequency": "<ul><li>Per (<strong>Family Member Tribute Card</strong>)</li><br><li>Family Member Tribute Card consist of:<br><ol><li>Cover (with photo)</li><li>Inside left (wording)</li><li>Inside right (wording)</li></ol><br>Tribute writeups are limited to <strong><i>150</i></strong> &nbsp;Words.</li><br><li>Up to 3 tribute revisions allowed before additional <span class='money-color'>$10.00</span> charge due.</li></ul>",
     "catalog_item_available": "y"
   }
 ]
