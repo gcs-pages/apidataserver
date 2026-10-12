@@ -6,7 +6,7 @@
     "catalog_checkbox": "&check;",
     "catalog_bin": "",
     "catalog_bin_loc": "",
-    "catalog_description_1": "Build, Configure, Generate",
+    "catalog_description_1": "Build and Generate",
     "catalog_description_2": "Family Tree",
     "catalog_specs": "Screen",
     "catalog_price": "<ul><li><span class='money-color'>$325.00</span> &nbsp;(Build, Configure, and Generate Family Tree).</li></ul><ol><li>This is a one-time cost that covers building the foundation, configuring the architecture, building the root branch, and generating an inactive version of the root's family tree. </li><br><li>The root's family tree will automatically become active, later, when the root's descendant children begin populating their family tree branches.</li><br><li>The root branch is configured to display the root's photo, age, year born, year died (if deceased), and a historical narrative. &nbsp;The root's descendant children are configured (in birth sequence order), and their names are displayed.</li><br><li><u>Next</u>, the root's demographic information is used as a template to generate an inactive version of the root's family tree.</li><br><li>As mentioned above, later, when the root's descendant children begin populating their family tree branches, the root's tree will <strong>automatically</strong> become functional; having the ability to display descendant information, when descendant names are clicked.</li></ol>",
